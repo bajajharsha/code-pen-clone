@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bajajharsha/code-pen-clone.git/static/css/main.e623f170.css",
-    "main.js": "/bajajharsha/code-pen-clone.git/static/js/main.76189320.js",
-    "index.html": "/bajajharsha/code-pen-clone.git/index.html",
-    "main.e623f170.css.map": "/bajajharsha/code-pen-clone.git/static/css/main.e623f170.css.map",
-    "main.76189320.js.map": "/bajajharsha/code-pen-clone.git/static/js/main.76189320.js.map"
+    "main.css": "/CodepenClone/static/css/main.e623f170.css",
+    "main.js": "/CodepenClone/static/js/main.76189320.js",
+    "index.html": "/CodepenClone/index.html",
+    "main.e623f170.css.map": "/CodepenClone/static/css/main.e623f170.css.map",
+    "main.76189320.js.map": "/CodepenClone/static/js/main.76189320.js.map"
   },
   "entrypoints": [
     "static/css/main.e623f170.css",
